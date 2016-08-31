@@ -1,3 +1,5 @@
+*******Clone of [*jonathan-g shiny apps for ABM*](https://github.com/jonathan-g/ees4760_apps) for personal experimentation****
+
 # EES 4760 Apps
 Various shiny apps related to teaching Agent-Based modeling using 
 Railsback and Grimm, 
